@@ -1,18 +1,19 @@
-# Predicting Financial Default Using ML
+# Market Risk Analysis Using Python
 
 ![image](https://github.com/user-attachments/assets/643f2a77-09d2-4e26-846b-d64010b3dd33)
 
 1. Project Objectives
    
-* Develop a machine learning model to predict potential defaulters based on historical financial metrics
-* Perform in-depth debt management analysis to uncover repayment behaviors and risk patterns
-* Evaluate credit risk using financial indicators such as debt-to-equity, liquidity ratios, and profitability measures
-* Equip VCs with a data-driven tool for smarter investment decisions and proactive risk mitigation
-
+* Analyze historical stock prices for key Indian companies: ITC, Bharti Airtel, Tata Motors, DLF, and Yes Bank
+* Calculate logarithmic returns, mean, and standard deviation for each stock
+* Plot and interpret mean vs. standard deviation to assess risk-return trade-offs
+* Offer actionable insights to guide portfolio optimization and risk management strategies
+  
 2. Key Highlights
+   
+* Developed clear Stock Price vs Time plots for each company
+* Performed in-depth return calculations and volatility analysis
+* Visualized Mean vs Std. Deviation to evaluate individual and portfolio-level risk
+* Generated strategic recommendations tailored to risk-averse and risk-seeking investors
+* Interpreted volatility trends caused by market factors like interest rates, inflation, geopolitical events, and investor sentiment
 
-* Conducted extensive EDA, covering balance sheet metrics, stock price trends, and quarterly reports
-* Built a predictive model to classify companies as potential defaulters or financially healthy
-* Analyzed stock returns, standard deviations, and performance trends for companies like ITC, Bharti Airtel, Tata Motors, DLF, and Yes Bank
-* Visualized log returns, plotted mean vs. standard deviation, and derived insights on stock volatility and consistency
-* Provided strategic recommendations for early warning systems and portfolio-level risk controls
